@@ -1,3 +1,4 @@
+Emily Liu finish this assignment alone.
 ## Understanding Question
 ### 1.
 I would choose option 1: Within a GitHub action that runs whenever code is pushed.
